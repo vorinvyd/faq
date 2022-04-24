@@ -88,6 +88,10 @@ section {
 	background: var(--dark-color);
 	color: var(--dark-text-color);
 }
+.donate {
+	background: var(--donate-color);
+	color: var(--donate-text-color);
+}
 section > p {
 	width: 75%;
     padding-right: 5em;
